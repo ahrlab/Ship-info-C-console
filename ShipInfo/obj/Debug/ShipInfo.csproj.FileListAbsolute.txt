@@ -1,0 +1,4 @@
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\ShipInfo\ShipInfo\bin\Debug\ShipInfo.exe
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\ShipInfo\ShipInfo\bin\Debug\ShipInfo.pdb
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\ShipInfo\ShipInfo\obj\Debug\ShipInfo.exe
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\ShipInfo\ShipInfo\obj\Debug\ShipInfo.pdb
